@@ -1,0 +1,20 @@
+* {
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+}
+
+html {
+    background-color: aqua;
+}
+
+.on_button {
+    border-radius: 50%;
+    border: none;
+    background-color: lime;
+}
+
+.off_button {
+    border-radius: 50%;
+    border: none;
+    background-color: red;
+}
